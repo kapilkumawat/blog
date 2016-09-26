@@ -8,7 +8,7 @@ introurl:            /about
 intro:               About
 url:                 http://kapilkumawat.com
 paginate:            1
-baseurl:             /blog
+baseurl:             ""
 
 # Assets
 #
